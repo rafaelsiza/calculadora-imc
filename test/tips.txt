@@ -1,0 +1,9 @@
+double numero = double.parse(line ?? "");
+
+try{
+
+}catch(e){
+
+}finally{
+
+}
